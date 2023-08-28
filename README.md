@@ -97,8 +97,9 @@ features, such as hitting another player with a ball have been implemented.
 ## Usage
 
 
+https://github.com/eayin2/kart-net/assets/7290696/a8ff85af-af51-4d4d-9d60-af6f66da2cab
 
-https://github.com/eayin2/kart-net/assets/7290696/986b8826-e7ca-472f-822c-832f3734a06e
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
